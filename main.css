@@ -56,7 +56,7 @@ html {
 }
 
 #nav > li {
-   display: inline-block;
+  display: inline-block;
 }
 #nav li {
   position: relative;
@@ -120,7 +120,7 @@ html {
   font-size: 20px;
 }
 #slider {
-  background: url(/img/slider.jpg) top center / cover no-repeat;
+  background: url(./img/slider.jpg) top center / cover no-repeat;
   margin-top: 46px;
   padding-top: 50%;
   position: relative;
@@ -152,7 +152,6 @@ html {
   padding: 64px 16px;
   padding-left: 16px;
   padding-right: 16px;
-  
 }
 #content .content-section .section-heading {
   letter-spacing: 4px;
